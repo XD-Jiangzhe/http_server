@@ -1,1 +1,2 @@
-# http_server
+基于muduo网络库写的一个 多线程io复用的并发http服务器
+自己写的缓冲区中的http协议部分，增加了mime.type，支持post和get请求
